@@ -17,17 +17,5 @@
   "permissions": [
     "redcap_data_entry_form",
     "redcap_data_entry_form_top"
-  ],
-  "system-settings": [
-    {
-      "key": "how_section",
-      "name": "<h6 style='text-align:center;color:red'><b>Description</b></h6><br>This EM will allow you to convert fields values based on the their type. Currently the EM support following type:<ul><li>Length</li><li>Weight</li></ul>",
-      "type": "descriptive"
-    },
-    {
-      "key": "how_to",
-      "name": "<strong>To define converter</strong><br><p>In field notes you need to define [CONVERSION_TYPE]=[CONVERSION_UNIT] for example: weight=pound, length=inch(please note you need to define full unit name instead of abbreviation)</p>",
-      "type": "descriptive"
-    }
   ]
 }

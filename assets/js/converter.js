@@ -16,6 +16,10 @@ Converter = {
                 from: 91.44,
                 to: 0.010936133
             },
+            mile: {
+                from: 160935,
+                to: 0.0000062137
+            },
             meter: {
                 from: 100,
                 to: 0.01
