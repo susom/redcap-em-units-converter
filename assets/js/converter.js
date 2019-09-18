@@ -5,7 +5,7 @@ Converter = {
         //all values will be converted into centimeter
         length: {
             inch: {
-                from: 2.45,
+                from: 2.54,
                 to: 0.3937007874
             },
             foot: {
